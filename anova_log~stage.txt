@@ -1,0 +1,3 @@
+              Df Sum Sq Mean Sq F value Pr(>F)
+stage         10    4.6  0.4582   0.683  0.741
+Residuals   1060  711.4  0.6711               

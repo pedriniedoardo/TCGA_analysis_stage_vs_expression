@@ -1,0 +1,5 @@
+              Df Sum Sq Mean Sq F value Pr(>F)  
+histo_type     7    9.5  1.3587   2.054 0.0459 *
+Residuals   1084  717.2  0.6616                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  log2Exp by sample
+t = 10.521, df = 154.32, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.5390698 0.7882940
+sample estimates:
+mean in group 01 mean in group 11 
+       10.208451         9.544769 
+
