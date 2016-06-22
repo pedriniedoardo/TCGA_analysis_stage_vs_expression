@@ -1,0 +1,5 @@
+
+      none    stage i   stage ia   stage ib   stage ii  stage iia  stage iib  stage iii stage iiia stage iiib stage iiic   stage iv 
+         8         90         85          6          6        358        256          2        156         27         65         20 
+   stage x 
+        14 
